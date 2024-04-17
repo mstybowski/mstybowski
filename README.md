@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center">👋 Hey, welcome to my profile.</div>
 
 <!--
 **mstybowski/mstybowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+	<p>
+		<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=mstybowski.mstybowski"/>
+		<br/>
+		<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstybowski&layout=compact">
+		<br/>
+		<img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=mstybowski&count_private=true&show_icons=true">
+	</p>
+</div>
